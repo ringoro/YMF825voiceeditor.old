@@ -8,7 +8,7 @@ https://yamaha-webmusic.github.io/ymf825board/intro/
 
 ScreenFMEdit.ino ymf825cont.ino 2つのファイルをArduino IDEで読み込んでスケッチを書き込んでください。
 
-##使い方
+#　使い方
 
 TeraTerm等VT100対応の端末ソフトで接続して下さい。
 
@@ -26,7 +26,7 @@ TAB　キーでコマンドモードへ切替ります。? プロンプトが出
 'ld'  EEPROMから音色を読出
 'cls' 画面再表示
 
-##　その他
+#　その他
 
 開発途中ですのでコード等随時修正・変更されますのでご了解下さい
 
